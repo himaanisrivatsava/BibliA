@@ -1,0 +1,39 @@
+{
+  "node": {
+    "003bc4a32848152f4f797a717257ba9360a828c916": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "7f01a4189f6cec3f77ce610a7e6c94d71c7bf2fc76": {
+      "workers": {
+        "app/(auth)/sign-in/page": {
+          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-in/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(auth)/sign-in/page": "action-browser"
+      }
+    },
+    "7fbe83b31f93031034ba524490ffd436342b658ea8": {
+      "workers": {
+        "app/(auth)/sign-up/page": {
+          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(auth)/sign-up/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "1jD5cSmau1tNOuJQZKHeKKDi+EO2/sF5+mU1ACBJ8xg="
+}

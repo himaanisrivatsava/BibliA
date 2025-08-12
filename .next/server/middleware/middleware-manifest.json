@@ -1,0 +1,37 @@
+{
+  "sorted_middleware": [],
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/_a332a874._.js",
+        "server/edge/chunks/node_modules_@opentelemetry_api_build_esm_9706894f._.js",
+        "server/edge/chunks/node_modules_@auth_core_ec7fbf6d._.js",
+        "server/edge/chunks/0450b_jose_dist_webapi_99d5fde5._.js",
+        "server/edge/chunks/node_modules_@neondatabase_serverless_index_mjs_03747b48._.js",
+        "server/edge/chunks/node_modules_drizzle-orm_9574aaa8._.js",
+        "server/edge/chunks/node_modules_e18776fb._.js",
+        "server/edge/chunks/[root-of-the-server]__7339312a._.js",
+        "server/edge/chunks/edge-wrapper_c79bd04e.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "^/.*$",
+          "originalSource": "/:path*"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "development",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "1jD5cSmau1tNOuJQZKHeKKDi+EO2/sF5+mU1ACBJ8xg=",
+        "__NEXT_PREVIEW_MODE_ID": "eb31f222a27f29c56f2fe6cba563e3dd",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "50db8a83ec5adf4f91f5c9fc737bee52dc3f3f4dd6fa169f5adff4009a6c5e89",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "98b73049937899c3575ab1361574b8dca80333853a99f68183e09a4632854afa"
+      }
+    }
+  },
+  "instrumentation": null,
+  "functions": {}
+}
