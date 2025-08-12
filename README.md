@@ -27,7 +27,7 @@ QSTASH_TOKEN=
 
 RESEND_TOKEN=
 ```
-Replace the placeholder values with your actual ImageKit, NeonDB, Upstash, and Resend credentials. You can obtain these credentials by signing up on the ImageKit, NeonDB, Upstash, and Resend.
+Obtain these credentials by signing up on the ImageKit, NeonDB, Upstash, and Resend and Replace the placeholder values . 
 
 ## Running the Project
 ```
